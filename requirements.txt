@@ -2,3 +2,5 @@ beautifulsoup4==4.12.3
 inscriptis==2.5.0
 minify_html==0.15.0
 selenium==4.23.1
+fastapi==0.111.0          # web wrapper
+uvicorn[standard]==0.29.0 # ASGI server
